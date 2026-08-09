@@ -1,0 +1,51 @@
+ResourceID,ResourceName,ResourceType,HomeLocation,Capacity,Status
+RES001,Araba Darko,IT Support,L050,1,Available
+RES002,Araba Adjei,Electrical,L040,1,Maintenance
+RES003,Adjoa Darko,Plumbing,L041,1,Available
+RES004,Kwabena Sarpong,Cleaning,L029,1,Available
+RES005,Team Alpha,Security,L001,6,Busy
+RES006,Kofi Asante,Transport,L029,1,Offline
+RES007,Cleaning Team A,Medical,L032,5,Available
+RES008,Kwaku Nkrumah,Facility Maintenance,L028,1,Maintenance
+RES009,Team Alpha,IT Support,L021,2,Assigned
+RES010,Kwabena Tetteh,Electrical,L044,1,Busy
+RES011,Abena Darko,Plumbing,L044,1,Assigned
+RES012,Security Squad 1,Cleaning,L030,6,Assigned
+RES013,Team Alpha,Security,L026,3,Assigned
+RES014,Kojo Adjei,Transport,L015,1,Assigned
+RES015,IT Response Unit,Medical,L044,2,Available
+RES016,Team Bravo,Facility Maintenance,L041,6,Busy
+RES017,Akua Frimpong,IT Support,L033,1,Available
+RES018,Adjoa Frimpong,Electrical,L012,1,Maintenance
+RES019,Facilities Crew,Plumbing,L038,2,Available
+RES020,Kojo Osei,Cleaning,L001,1,Assigned
+RES021,Kwabena Asante,Security,L050,1,Offline
+RES022,Team Bravo,Transport,L021,6,Offline
+RES023,Medical Response Team,Medical,L013,1,Assigned
+RES024,Facilities Crew,Facility Maintenance,L020,2,Available
+RES025,Cleaning Team A,IT Support,L048,6,Busy
+RES026,Adjoa Owusu,Electrical,L032,1,Assigned
+RES027,Cleaning Team A,Plumbing,L041,3,Busy
+RES028,Efua Mensah,Cleaning,L011,1,Available
+RES029,Akua Osei,Security,L049,1,Maintenance
+RES030,Ambulance 1,Transport,L012,40,Offline
+RES031,Ambulance 1,Medical,L001,2,Available
+RES032,Yaw Asante,Facility Maintenance,L026,1,Offline
+RES033,Akosua Osei,IT Support,L007,1,Busy
+RES034,Cleaning Team A,Electrical,L013,5,Assigned
+RES035,Security Squad 2,Plumbing,L032,3,Maintenance
+RES036,Cleaning Team B,Cleaning,L032,5,Busy
+RES037,Team Alpha,Security,L026,6,Busy
+RES038,Ambulance 1,Transport,L013,25,Available
+RES039,Efua Asante,Medical,L005,1,Available
+RES040,Yaw Nkrumah,Facility Maintenance,L046,1,Available
+RES041,Kojo Frimpong,IT Support,L015,1,Available
+RES042,Kwame Nkrumah,Electrical,L013,1,Available
+RES043,Ama Tetteh,Plumbing,L004,1,Assigned
+RES044,Cleaning Team B,Cleaning,L043,6,Available
+RES045,Adjoa Mensah,Security,L045,1,Maintenance
+RES046,Shuttle Bus 2,Transport,L021,15,Assigned
+RES047,Kwame Mensah,Medical,L029,1,Available
+RES048,Kwabena Darko,Facility Maintenance,L047,1,Offline
+RES049,Security Squad 2,IT Support,L018,3,Available
+RES050,Kwaku Adjei,Electrical,L034,1,Assigned

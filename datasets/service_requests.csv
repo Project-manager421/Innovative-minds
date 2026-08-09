@@ -1,0 +1,301 @@
+RequestID,Category,Description,Location,Urgency,Status,SubmittedTime,Deadline,AssignedResource
+SR001,IT Support,Projector not working,L042,Low,Assigned,12:15,17:15,RES039
+SR002,Electrical,AC unit not powering on,L041,Medium,Completed,15:20,18:20,RES026
+SR003,Security,CCTV malfunction,L013,Medium,Completed,07:10,10:10,RES047
+SR004,IT Support,Projector not working,L026,Medium,Pending,13:20,16:20,
+SR005,Facility Maintenance,Window pane cracked,L005,High,Completed,17:30,18:30,RES008
+SR006,Plumbing,Water leakage,L032,Medium,Completed,12:25,15:25,RES045
+SR007,Transport,Vehicle blocking road,L044,Low,Pending,10:25,15:25,
+SR008,Facility Maintenance,Broken chair,L007,Medium,Completed,12:15,15:15,RES031
+SR009,Transport,Shuttle delay,L026,Medium,Assigned,11:20,14:20,RES019
+SR010,Transport,Vehicle blocking road,L028,High,Assigned,14:10,15:10,RES005
+SR011,Security,Broken door lock,L011,Low,In Progress,18:05,23:05,RES045
+SR012,Cleaning,Spill needs cleanup,L034,Low,Completed,08:20,13:20,RES049
+SR013,IT Support,Smart board unresponsive,L027,Medium,Pending,14:35,17:35,
+SR014,Facility Maintenance,Door hinge broken,L011,Medium,Assigned,15:40,18:40,RES020
+SR015,Security,Unauthorized access attempt,L013,Medium,Completed,16:40,19:40,RES019
+SR016,Transport,Parking barrier stuck,L030,Medium,In Progress,11:30,14:30,RES044
+SR017,Plumbing,No water supply,L018,Medium,Assigned,11:20,14:20,RES001
+SR018,Electrical,Faulty socket,L002,Medium,Pending,15:55,18:55,
+SR019,Transport,Shuttle delay,L005,High,Assigned,14:40,15:40,RES028
+SR020,Security,Missing property report,L004,Low,In Progress,16:30,21:30,RES047
+SR021,Transport,Shuttle delay,L032,High,Assigned,09:50,10:50,RES007
+SR022,Cleaning,Overflowing dustbin,L031,Medium,Completed,14:05,17:05,RES040
+SR023,Cleaning,Spill needs cleanup,L014,Medium,Assigned,18:45,21:45,RES006
+SR024,Facility Maintenance,Elevator not working,L009,Low,Completed,14:50,19:50,RES002
+SR025,Electrical,Faulty socket,L048,Low,Completed,12:50,17:50,RES035
+SR026,Plumbing,Water leakage,L015,Medium,In Progress,15:50,18:50,RES032
+SR027,Cleaning,Restroom needs cleaning,L007,Low,Assigned,16:30,21:30,RES010
+SR028,Security,Lost student ID,L038,Medium,In Progress,09:20,12:20,RES011
+SR029,Cleaning,Litter in corridor,L010,Medium,Assigned,18:50,21:50,RES016
+SR030,Plumbing,No water supply,L026,Low,Pending,10:55,15:55,
+SR031,Security,Suspicious person reported,L023,Low,Completed,16:05,21:05,RES012
+SR032,IT Support,Printer out of toner,L009,High,Completed,12:20,13:20,RES034
+SR033,Transport,Parking barrier stuck,L046,Medium,Assigned,12:05,15:05,RES018
+SR034,Electrical,Faulty socket,L045,Medium,Pending,07:30,10:30,
+SR035,Electrical,AC unit not powering on,L023,Medium,Pending,17:45,20:45,
+SR036,Transport,Shuttle delay,L024,Medium,Cancelled,08:50,11:50,
+SR037,Facility Maintenance,Window pane cracked,L019,Medium,Completed,17:55,20:55,RES042
+SR038,Transport,Request for shuttle pickup,L038,Low,Assigned,16:55,21:55,RES029
+SR039,Cleaning,Stain on carpet,L027,Medium,In Progress,11:50,14:50,RES013
+SR040,Facility Maintenance,Broken chair,L018,High,Assigned,18:55,19:55,RES018
+SR041,IT Support,Projector not working,L029,High,Pending,12:35,13:35,
+SR042,Transport,Parking barrier stuck,L036,Medium,Pending,07:30,10:30,
+SR043,Plumbing,Water leakage,L041,Low,Assigned,16:00,21:00,RES034
+SR044,Plumbing,Toilet not flushing,L017,Medium,Pending,17:15,20:15,
+SR045,Security,Suspicious person reported,L032,Medium,In Progress,16:05,19:05,RES011
+SR046,Electrical,Circuit breaker tripped,L008,Medium,Pending,09:05,12:05,
+SR047,Transport,Vehicle blocking road,L020,Medium,Pending,15:30,18:30,
+SR048,Transport,Shuttle route inquiry,L017,High,In Progress,09:05,10:05,RES026
+SR049,Electrical,Power outage in block,L033,High,Assigned,08:05,09:05,RES050
+SR050,Electrical,Flickering lights,L048,Medium,Completed,12:10,15:10,RES049
+SR051,IT Support,Printer out of toner,L043,Low,Pending,11:45,16:45,
+SR052,Transport,Shuttle delay,L050,Low,In Progress,17:35,22:35,RES029
+SR053,IT Support,Printer out of toner,L024,Medium,Pending,16:30,19:30,
+SR054,Plumbing,Water leakage,L025,Medium,Assigned,13:45,16:45,RES013
+SR055,Transport,Parking barrier stuck,L049,Medium,Assigned,12:00,15:00,RES006
+SR056,Electrical,Faulty socket,L037,High,Assigned,07:05,08:05,RES032
+SR057,Facility Maintenance,Elevator not working,L014,Low,Assigned,13:10,18:10,RES022
+SR058,Cleaning,Litter in corridor,L049,Medium,Completed,11:50,14:50,RES025
+SR059,Security,Missing property report,L022,High,Completed,08:45,09:45,RES011
+SR060,Transport,Shuttle route inquiry,L036,Medium,Cancelled,17:25,20:25,
+SR061,Plumbing,Toilet not flushing,L016,High,Pending,15:30,16:30,
+SR062,Electrical,Faulty socket,L019,High,Assigned,12:00,13:00,RES017
+SR063,Electrical,Circuit breaker tripped,L004,Medium,Completed,15:05,18:05,RES004
+SR064,Security,Suspicious person reported,L041,Medium,Pending,12:55,15:55,
+SR065,Security,Lost student ID,L019,High,Assigned,14:40,15:40,RES027
+SR066,Facility Maintenance,Window pane cracked,L046,Medium,Assigned,15:40,18:40,RES049
+SR067,Cleaning,Overflowing dustbin,L039,Low,Completed,10:05,15:05,RES027
+SR068,Plumbing,Blocked drain,L050,Medium,Completed,17:15,20:15,RES026
+SR069,Transport,Shuttle route inquiry,L042,Medium,Completed,07:05,10:05,RES035
+SR070,Cleaning,Overflowing dustbin,L013,Medium,Assigned,16:15,19:15,RES024
+SR071,Electrical,Faulty socket,L036,High,Assigned,12:20,13:20,RES024
+SR072,Transport,Parking barrier stuck,L034,Low,Completed,15:35,20:35,RES043
+SR073,Transport,Shuttle breakdown,L018,Medium,Assigned,11:05,14:05,RES047
+SR074,Transport,Parking barrier stuck,L040,Medium,Completed,07:45,10:45,RES039
+SR075,Transport,Vehicle blocking road,L036,High,In Progress,11:10,12:10,RES022
+SR076,Security,Lost student ID,L036,High,Completed,07:40,08:40,RES013
+SR077,Facility Maintenance,Elevator not working,L047,Medium,Completed,11:35,14:35,RES035
+SR078,Transport,Vehicle blocking road,L042,Medium,Assigned,14:10,17:10,RES050
+SR079,IT Support,Printer out of toner,L009,Medium,Completed,13:05,16:05,RES049
+SR080,Plumbing,Water leakage,L015,High,Assigned,14:15,15:15,RES050
+SR081,Electrical,Circuit breaker tripped,L005,Medium,Assigned,07:00,10:00,RES008
+SR082,Transport,Shuttle route inquiry,L031,High,Completed,18:15,19:15,RES036
+SR083,Electrical,Circuit breaker tripped,L042,Low,Completed,08:05,13:05,RES036
+SR084,Transport,Request for shuttle pickup,L012,Medium,Pending,07:00,10:00,
+SR085,Facility Maintenance,Ceiling leak,L049,Medium,Pending,10:15,13:15,
+SR086,Security,Suspicious person reported,L044,High,Completed,09:35,10:35,RES002
+SR087,Facility Maintenance,Elevator not working,L015,Low,Completed,09:35,14:35,RES018
+SR088,Facility Maintenance,Door hinge broken,L017,Medium,Assigned,14:45,17:45,RES046
+SR089,Transport,Parking barrier stuck,L033,High,Pending,14:20,15:20,
+SR090,Electrical,Faulty socket,L031,Low,Completed,07:50,12:50,RES007
+SR091,Cleaning,Overflowing dustbin,L028,High,Completed,14:00,15:00,RES023
+SR092,Electrical,Exposed wiring hazard,L033,High,Pending,07:15,08:15,
+SR093,IT Support,Wi-Fi down in lecture hall,L014,Medium,Completed,14:50,17:50,RES043
+SR094,Electrical,Exposed wiring hazard,L021,Medium,Assigned,13:00,16:00,RES029
+SR095,Plumbing,Water leakage,L007,Low,Completed,08:20,13:20,RES016
+SR096,Electrical,AC unit not powering on,L040,Medium,Pending,15:25,18:25,
+SR097,IT Support,Computer won't boot,L048,Medium,Completed,13:30,16:30,RES014
+SR098,Security,CCTV malfunction,L030,High,Assigned,18:40,19:40,RES030
+SR099,Security,CCTV malfunction,L039,Medium,Completed,18:50,21:50,RES007
+SR100,Facility Maintenance,Elevator not working,L026,Low,Assigned,07:55,12:55,RES044
+SR101,Facility Maintenance,Broken chair,L014,High,Pending,18:05,19:05,
+SR102,Facility Maintenance,Ceiling leak,L017,Medium,Pending,18:40,21:40,
+SR103,Security,Unauthorized access attempt,L017,High,Pending,13:45,14:45,
+SR104,Facility Maintenance,Air conditioning fault,L036,High,Completed,07:15,08:15,RES035
+SR105,Plumbing,Broken tap,L025,Low,Assigned,11:45,16:45,RES005
+SR106,Electrical,Power outage in block,L034,High,In Progress,09:35,10:35,RES021
+SR107,IT Support,Computer won't boot,L005,Medium,Assigned,17:05,20:05,RES015
+SR108,Plumbing,Blocked drain,L007,High,Assigned,08:10,09:10,RES016
+SR109,Transport,Request for shuttle pickup,L041,High,Pending,12:50,13:50,
+SR110,IT Support,Network cable damaged,L047,Medium,Completed,14:40,17:40,RES043
+SR111,Electrical,Faulty socket,L049,Medium,Assigned,17:55,20:55,RES029
+SR112,Facility Maintenance,Elevator not working,L036,Medium,In Progress,13:40,16:40,RES039
+SR113,Cleaning,Overflowing dustbin,L014,Medium,Completed,12:05,15:05,RES018
+SR114,Facility Maintenance,Air conditioning fault,L036,Low,Pending,15:20,20:20,
+SR115,Plumbing,Toilet not flushing,L015,Low,Completed,10:05,15:05,RES019
+SR116,Facility Maintenance,Window pane cracked,L035,Low,Completed,11:50,16:50,RES039
+SR117,Plumbing,Burst pipe,L008,Low,Completed,13:20,18:20,RES027
+SR118,Transport,Request for shuttle pickup,L021,Medium,In Progress,16:50,19:50,RES030
+SR119,Plumbing,Burst pipe,L050,Medium,Pending,15:25,18:25,
+SR120,IT Support,Printer out of toner,L011,High,Assigned,11:50,12:50,RES037
+SR121,Transport,Request for shuttle pickup,L034,Medium,In Progress,15:50,18:50,RES003
+SR122,Security,Missing property report,L016,Medium,In Progress,15:40,18:40,RES050
+SR123,Transport,Shuttle delay,L026,High,Completed,07:15,08:15,RES027
+SR124,Transport,Shuttle route inquiry,L022,Low,Cancelled,09:10,14:10,
+SR125,Transport,Parking barrier stuck,L050,Medium,In Progress,16:00,19:00,RES018
+SR126,Transport,Shuttle breakdown,L027,Medium,Completed,14:25,17:25,RES029
+SR127,Facility Maintenance,Window pane cracked,L036,High,Completed,16:20,17:20,RES039
+SR128,Facility Maintenance,Door hinge broken,L018,Low,Assigned,13:35,18:35,RES039
+SR129,Transport,Shuttle delay,L019,Medium,Pending,07:05,10:05,
+SR130,Cleaning,Spill needs cleanup,L023,Medium,Assigned,17:35,20:35,RES017
+SR131,Transport,Shuttle route inquiry,L032,Medium,Pending,17:00,20:00,
+SR132,Plumbing,Toilet not flushing,L016,Low,Cancelled,10:10,15:10,
+SR133,IT Support,Smart board unresponsive,L021,High,Pending,17:35,18:35,
+SR134,Electrical,Exposed wiring hazard,L032,Low,In Progress,13:00,18:00,RES045
+SR135,Facility Maintenance,Air conditioning fault,L024,Low,Pending,15:30,20:30,
+SR136,Plumbing,Blocked drain,L037,Low,Assigned,18:50,23:50,RES047
+SR137,Plumbing,Water leakage,L028,Medium,Completed,18:30,21:30,RES040
+SR138,Electrical,Flickering lights,L019,Medium,Pending,11:50,14:50,
+SR139,Facility Maintenance,Elevator not working,L021,High,Completed,15:10,16:10,RES018
+SR140,Transport,Parking barrier stuck,L049,Medium,In Progress,14:35,17:35,RES046
+SR141,Facility Maintenance,Window pane cracked,L029,Low,Pending,14:35,19:35,
+SR142,Plumbing,Toilet not flushing,L048,Low,Completed,13:40,18:40,RES028
+SR143,IT Support,Projector not working,L031,Medium,Completed,16:05,19:05,RES044
+SR144,Cleaning,Litter in corridor,L048,Low,Completed,18:30,23:30,RES027
+SR145,Facility Maintenance,Ceiling leak,L013,High,Completed,08:25,09:25,RES018
+SR146,Facility Maintenance,Door hinge broken,L039,Low,Completed,15:50,20:50,RES037
+SR147,Facility Maintenance,Broken chair,L040,Low,Pending,08:00,13:00,
+SR148,Security,Unauthorized access attempt,L024,Medium,In Progress,09:10,12:10,RES028
+SR149,Plumbing,Blocked drain,L013,Medium,Assigned,10:55,13:55,RES005
+SR150,Transport,Parking barrier stuck,L035,Medium,Pending,07:10,10:10,
+SR151,Plumbing,Broken tap,L049,High,Completed,15:15,16:15,RES015
+SR152,Electrical,Faulty socket,L016,Medium,Pending,16:40,19:40,
+SR153,Security,Unauthorized access attempt,L028,Low,Pending,16:15,21:15,
+SR154,Transport,Shuttle route inquiry,L024,Low,Completed,16:55,21:55,RES049
+SR155,Electrical,Flickering lights,L026,Medium,Pending,16:50,19:50,
+SR156,Security,Missing property report,L002,Low,Assigned,18:45,23:45,RES030
+SR157,Facility Maintenance,Air conditioning fault,L014,Medium,Pending,16:00,19:00,
+SR158,Security,Lost student ID,L050,Medium,Completed,16:25,19:25,RES039
+SR159,Plumbing,Burst pipe,L025,Medium,Pending,14:30,17:30,
+SR160,Security,Lost student ID,L050,Medium,Assigned,17:50,20:50,RES033
+SR161,Cleaning,Stain on carpet,L030,Medium,Completed,09:50,12:50,RES002
+SR162,Facility Maintenance,Air conditioning fault,L045,Medium,Pending,17:10,20:10,
+SR163,Security,Broken door lock,L013,Medium,Completed,18:45,21:45,RES006
+SR164,IT Support,Wi-Fi down in lecture hall,L002,High,Assigned,12:30,13:30,RES011
+SR165,Electrical,Faulty socket,L009,Low,Assigned,08:45,13:45,RES007
+SR166,Transport,Vehicle blocking road,L025,Medium,In Progress,13:05,16:05,RES017
+SR167,Electrical,Faulty socket,L040,Medium,In Progress,16:25,19:25,RES010
+SR168,Facility Maintenance,Door hinge broken,L011,High,Completed,10:20,11:20,RES004
+SR169,Facility Maintenance,Air conditioning fault,L049,Medium,In Progress,11:30,14:30,RES013
+SR170,Cleaning,Classroom needs cleaning,L040,Low,Completed,15:35,20:35,RES014
+SR171,Cleaning,Classroom needs cleaning,L035,Low,Completed,08:25,13:25,RES015
+SR172,IT Support,Network cable damaged,L028,High,Pending,17:00,18:00,
+SR173,Facility Maintenance,Window pane cracked,L050,Low,Completed,09:25,14:25,RES011
+SR174,Transport,Shuttle breakdown,L031,Medium,Completed,11:50,14:50,RES006
+SR175,Security,Unauthorized access attempt,L027,High,In Progress,13:25,14:25,RES034
+SR176,Cleaning,Restroom needs cleaning,L033,Medium,Completed,11:55,14:55,RES022
+SR177,IT Support,Printer out of toner,L039,High,Assigned,16:25,17:25,RES014
+SR178,Cleaning,Classroom needs cleaning,L030,Medium,Completed,07:15,10:15,RES039
+SR179,Facility Maintenance,Broken chair,L019,Medium,Assigned,10:15,13:15,RES013
+SR180,Cleaning,Restroom needs cleaning,L049,Medium,Cancelled,17:15,20:15,
+SR181,Cleaning,Overflowing dustbin,L035,High,Completed,15:50,16:50,RES040
+SR182,Facility Maintenance,Door hinge broken,L041,Medium,Assigned,18:00,21:00,RES028
+SR183,IT Support,Wi-Fi down in lecture hall,L032,Medium,Pending,11:45,14:45,
+SR184,Security,Missing property report,L049,Medium,Completed,13:45,16:45,RES038
+SR185,Cleaning,Restroom needs cleaning,L007,Medium,Completed,16:00,19:00,RES016
+SR186,Cleaning,Litter in corridor,L048,Low,Cancelled,13:40,18:40,
+SR187,Transport,Shuttle delay,L033,High,Completed,16:15,17:15,RES034
+SR188,Facility Maintenance,Ceiling leak,L049,Medium,Assigned,07:15,10:15,RES010
+SR189,Electrical,AC unit not powering on,L044,Medium,Completed,11:50,14:50,RES046
+SR190,Electrical,Circuit breaker tripped,L025,Medium,Completed,16:30,19:30,RES032
+SR191,Transport,Shuttle route inquiry,L012,Low,Pending,14:50,19:50,
+SR192,Plumbing,No water supply,L012,Low,Assigned,07:40,12:40,RES007
+SR193,Facility Maintenance,Air conditioning fault,L022,Medium,Pending,11:25,14:25,
+SR194,Facility Maintenance,Ceiling leak,L017,Low,Completed,12:30,17:30,RES005
+SR195,Electrical,Flickering lights,L039,Low,In Progress,09:35,14:35,RES002
+SR196,Security,Suspicious person reported,L011,Medium,Completed,16:05,19:05,RES039
+SR197,IT Support,Network cable damaged,L029,Medium,Completed,18:30,21:30,RES026
+SR198,Electrical,AC unit not powering on,L013,High,Completed,16:00,17:00,RES045
+SR199,Electrical,Flickering lights,L043,Low,Pending,07:20,12:20,
+SR200,Plumbing,Broken tap,L016,High,Completed,12:05,13:05,RES016
+SR201,Transport,Shuttle delay,L023,Low,Assigned,18:30,23:30,RES017
+SR202,Facility Maintenance,Elevator not working,L022,High,Assigned,16:35,17:35,RES002
+SR203,IT Support,Wi-Fi down in lecture hall,L008,Medium,Completed,14:30,17:30,RES024
+SR204,Cleaning,Spill needs cleanup,L043,High,Pending,08:30,09:30,
+SR205,IT Support,Computer won't boot,L002,Medium,Assigned,16:10,19:10,RES038
+SR206,Plumbing,Water leakage,L023,High,Pending,09:00,10:00,
+SR207,IT Support,Network cable damaged,L037,Medium,Assigned,07:45,10:45,RES033
+SR208,Cleaning,Restroom needs cleaning,L037,Low,Completed,09:50,14:50,RES004
+SR209,IT Support,Wi-Fi down in lecture hall,L009,Low,Pending,12:35,17:35,
+SR210,Cleaning,Spill needs cleanup,L041,Medium,In Progress,17:30,20:30,RES033
+SR211,Plumbing,Broken tap,L037,Medium,Cancelled,18:30,21:30,
+SR212,Cleaning,Overflowing dustbin,L044,High,Completed,18:55,19:55,RES015
+SR213,Electrical,Circuit breaker tripped,L048,Low,Completed,08:25,13:25,RES011
+SR214,Electrical,Flickering lights,L005,Medium,Completed,10:15,13:15,RES013
+SR215,Plumbing,Blocked drain,L049,Low,In Progress,15:35,20:35,RES008
+SR216,Plumbing,Toilet not flushing,L015,High,Completed,08:15,09:15,RES024
+SR217,IT Support,Projector not working,L018,Medium,In Progress,13:40,16:40,RES013
+SR218,IT Support,Computer won't boot,L048,High,Assigned,11:50,12:50,RES041
+SR219,Security,Broken door lock,L038,Low,Completed,16:10,21:10,RES014
+SR220,Security,Suspicious person reported,L036,Medium,Cancelled,12:50,15:50,
+SR221,Plumbing,Toilet not flushing,L032,High,Pending,08:45,09:45,
+SR222,Plumbing,Water leakage,L037,Medium,Assigned,18:25,21:25,RES035
+SR223,IT Support,Wi-Fi down in lecture hall,L012,High,In Progress,13:00,14:00,RES021
+SR224,Facility Maintenance,Air conditioning fault,L047,Medium,Pending,18:10,21:10,
+SR225,IT Support,Printer out of toner,L004,Low,Pending,14:20,19:20,
+SR226,IT Support,Network cable damaged,L030,Medium,Completed,11:50,14:50,RES028
+SR227,Plumbing,No water supply,L001,High,Completed,07:45,08:45,RES030
+SR228,Plumbing,Blocked drain,L029,High,Completed,15:20,16:20,RES025
+SR229,Transport,Vehicle blocking road,L037,Medium,Assigned,13:50,16:50,RES032
+SR230,Cleaning,Classroom needs cleaning,L008,Medium,Pending,18:10,21:10,
+SR231,Electrical,Circuit breaker tripped,L045,Medium,Pending,14:25,17:25,
+SR232,Electrical,Faulty socket,L034,Medium,Completed,13:10,16:10,RES012
+SR233,Cleaning,Stain on carpet,L002,Medium,Completed,07:20,10:20,RES045
+SR234,IT Support,Projector not working,L010,High,Completed,07:15,08:15,RES022
+SR235,IT Support,Wi-Fi down in lecture hall,L016,High,Assigned,15:50,16:50,RES008
+SR236,Electrical,Faulty socket,L018,Medium,Completed,14:45,17:45,RES027
+SR237,IT Support,Smart board unresponsive,L007,High,Completed,15:20,16:20,RES046
+SR238,Security,Lost student ID,L025,Medium,Completed,13:55,16:55,RES036
+SR239,Facility Maintenance,Door hinge broken,L031,High,Cancelled,18:20,19:20,
+SR240,Electrical,AC unit not powering on,L050,Medium,Completed,10:55,13:55,RES044
+SR241,IT Support,Smart board unresponsive,L048,Medium,In Progress,11:35,14:35,RES022
+SR242,Cleaning,Restroom needs cleaning,L017,High,Completed,11:25,12:25,RES016
+SR243,Security,Suspicious person reported,L037,Medium,Completed,09:00,12:00,RES038
+SR244,Cleaning,Litter in corridor,L017,High,Completed,18:50,19:50,RES004
+SR245,Transport,Shuttle breakdown,L040,Medium,Completed,09:55,12:55,RES050
+SR246,Plumbing,Toilet not flushing,L006,High,Pending,15:45,16:45,
+SR247,Electrical,AC unit not powering on,L017,Low,Completed,07:45,12:45,RES025
+SR248,IT Support,Projector not working,L022,Medium,Completed,13:25,16:25,RES019
+SR249,Cleaning,Restroom needs cleaning,L050,High,Pending,13:40,14:40,
+SR250,Facility Maintenance,Broken chair,L040,Low,Pending,07:35,12:35,
+SR251,Security,Lost student ID,L040,Medium,Completed,08:25,11:25,RES015
+SR252,IT Support,Printer out of toner,L007,High,Completed,18:55,19:55,RES036
+SR253,Cleaning,Stain on carpet,L009,High,Completed,08:45,09:45,RES024
+SR254,Transport,Request for shuttle pickup,L035,Medium,In Progress,13:15,16:15,RES009
+SR255,Security,Broken door lock,L004,Medium,In Progress,10:20,13:20,RES032
+SR256,Security,Unauthorized access attempt,L035,High,In Progress,17:45,18:45,RES031
+SR257,IT Support,Projector not working,L001,Low,Completed,16:55,21:55,RES027
+SR258,Facility Maintenance,Air conditioning fault,L038,Medium,Completed,14:00,17:00,RES015
+SR259,Electrical,Exposed wiring hazard,L007,High,Completed,10:10,11:10,RES042
+SR260,Cleaning,Stain on carpet,L050,Medium,Assigned,13:30,16:30,RES012
+SR261,Cleaning,Stain on carpet,L024,Medium,Pending,14:45,17:45,
+SR262,IT Support,Computer won't boot,L048,Medium,Assigned,09:15,12:15,RES017
+SR263,IT Support,Wi-Fi down in lecture hall,L024,High,Cancelled,10:20,11:20,
+SR264,Electrical,Exposed wiring hazard,L036,Medium,Assigned,07:00,10:00,RES024
+SR265,Cleaning,Restroom needs cleaning,L042,Medium,Pending,13:35,16:35,
+SR266,Plumbing,No water supply,L037,High,Assigned,11:45,12:45,RES012
+SR267,IT Support,Projector not working,L021,Medium,Assigned,17:30,20:30,RES006
+SR268,Transport,Shuttle route inquiry,L025,High,Pending,10:00,11:00,
+SR269,Security,Lost student ID,L033,High,Assigned,09:00,10:00,RES041
+SR270,Cleaning,Spill needs cleanup,L029,Low,Completed,09:20,14:20,RES036
+SR271,Cleaning,Overflowing dustbin,L022,Medium,Pending,17:35,20:35,
+SR272,Plumbing,Water leakage,L015,Medium,In Progress,18:10,21:10,RES006
+SR273,Plumbing,Toilet not flushing,L015,High,Assigned,10:15,11:15,RES024
+SR274,Electrical,Exposed wiring hazard,L003,Medium,In Progress,17:35,20:35,RES050
+SR275,Facility Maintenance,Door hinge broken,L047,Low,Assigned,10:30,15:30,RES018
+SR276,Cleaning,Stain on carpet,L024,High,Completed,10:05,11:05,RES025
+SR277,Facility Maintenance,Window pane cracked,L013,Medium,Pending,08:20,11:20,
+SR278,Security,Lost student ID,L008,Medium,Pending,07:10,10:10,
+SR279,Plumbing,No water supply,L015,Low,In Progress,18:40,23:40,RES002
+SR280,Transport,Shuttle delay,L029,Low,Assigned,15:35,20:35,RES026
+SR281,Cleaning,Restroom needs cleaning,L037,Medium,Assigned,11:25,14:25,RES038
+SR282,Plumbing,Toilet not flushing,L033,High,Pending,13:20,14:20,
+SR283,Transport,Shuttle breakdown,L006,Medium,Completed,12:25,15:25,RES014
+SR284,Plumbing,Water leakage,L050,High,Assigned,16:25,17:25,RES029
+SR285,Electrical,Faulty socket,L023,High,Completed,14:50,15:50,RES003
+SR286,Plumbing,Water leakage,L025,High,Completed,14:55,15:55,RES012
+SR287,Facility Maintenance,Ceiling leak,L050,High,Pending,16:40,17:40,
+SR288,IT Support,Printer out of toner,L010,Low,Completed,13:40,18:40,RES046
+SR289,Security,CCTV malfunction,L050,Medium,Pending,14:00,17:00,
+SR290,Plumbing,Burst pipe,L024,Low,Completed,08:00,13:00,RES024
+SR291,Cleaning,Classroom needs cleaning,L013,Low,Cancelled,18:00,23:00,
+SR292,Transport,Shuttle route inquiry,L009,Low,Completed,12:30,17:30,RES040
+SR293,IT Support,Smart board unresponsive,L009,High,Completed,12:45,13:45,RES035
+SR294,Facility Maintenance,Ceiling leak,L047,Low,In Progress,11:05,16:05,RES001
+SR295,Electrical,Power outage in block,L014,Medium,Completed,14:35,17:35,RES014
+SR296,IT Support,Projector not working,L038,Medium,Assigned,13:00,16:00,RES031
+SR297,Electrical,Circuit breaker tripped,L031,Medium,Pending,09:05,12:05,
+SR298,Facility Maintenance,Window pane cracked,L011,Medium,Completed,07:55,10:55,RES004
+SR299,Plumbing,No water supply,L011,High,Cancelled,08:30,09:30,
+SR300,Plumbing,Blocked drain,L047,Low,Cancelled,18:35,23:35,
