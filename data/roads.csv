@@ -1,0 +1,101 @@
+Edge ID,From,To,Distance (km),Travel Time (min)
+E001,Main Gate,Legon Main Entrance,0.35,4
+E002,Legon Main Entrance,University Square,0.3,4
+E003,University Square,Registry,0.18,2
+E004,Registry,Great Hall,0.15,2
+E005,Great Hall,Balme Library,0.32,4
+E006,Balme Library,Computer Science Department,0.42,5
+E007,Computer Science Department,School of Engineering Sciences,0.18,2
+E008,School of Engineering Sciences,ICT Directorate,0.12,2
+E009,ICT Directorate,Department of Mathematics,0.25,3
+E010,Department of Mathematics,Department of Physics,0.14,2
+E011,Department of Physics,Department of Chemistry,0.16,2
+E012,Department of Chemistry,Department of Earth Science,0.23,3
+E013,Department of Earth Science,Centre for Remote Sensing & GIS,0.17,2
+E014,Centre for Remote Sensing & GIS,Institute for Environment & Sanitation Studies,0.2,3
+E015,Institute for Environment & Sanitation Studies,School of Communication Studies,0.24,3
+E016,School of Communication Studies,School of Performing Arts,0.3,4
+E017,School of Performing Arts,Central Cafeteria,0.22,3
+E018,Central Cafeteria,Bush Canteen,0.25,3
+E019,Bush Canteen,Night Market,0.38,5
+E020,Night Market,Banking Square,0.2,3
+E021,Banking Square,University of Ghana Business School,0.25,3
+E022,University of Ghana Business School,Cedi Conference Centre,0.16,2
+E023,Cedi Conference Centre,Graduate School,0.28,4
+E024,Graduate School,School of Law,0.3,4
+E025,School of Law,Balme Library,0.45,6
+E026,Graduate School,Department of Plant & Environmental Biology,0.22,3
+E027,Department of Plant & Environmental Biology,School of Biological Sciences,0.18,2
+E028,School of Biological Sciences,WACCBIP,0.15,2
+E029,WACCBIP,UG Hospital,0.45,6
+E030,UG Hospital,School of Public Health,0.15,2
+E031,School of Public Health,Medical School,0.12,2
+E032,Medical School,Dental School,0.1,2
+E033,Dental School,Volta Hall,0.35,5
+E034,Volta Hall,Commonwealth Hall,0.28,4
+E035,Commonwealth Hall,Mensah Sarbah Hall,0.32,4
+E036,Mensah Sarbah Hall,Legon Hall,0.3,4
+E037,Legon Hall,Legon Hall Annex A,0.1,2
+E038,Legon Hall,Akuafo Hall,0.25,3
+E039,Akuafo Hall,Athletic Oval,0.35,5
+E040,Athletic Oval,Sports Directorate,0.12,2
+E041,Sports Directorate,Bush Canteen,0.32,4
+E042,Bush Canteen,University Guest Centre,0.38,5
+E043,University Guest Centre,Cedi Conference Centre,0.3,4
+E044,Cedi Conference Centre,Banking Square,0.22,3
+E045,Banking Square,Visitor Car Park,0.18,2
+E046,Visitor Car Park,Main Gate,0.15,2
+E047,Main Gate,Shuttle Terminal,0.22,3
+E048,Shuttle Terminal,Staff Village Junction,0.4,5
+E049,Staff Village Junction,Security Services HQ,0.35,4
+E050,Security Services HQ,Fire Station,0.15,2
+E051,Fire Station,Maintenance Workshop,0.2,3
+E052,Maintenance Workshop,UG Hospital,0.35,5
+E053,Maintenance Workshop,Registry,0.65,8
+E054,Security Services HQ,Registry,0.7,9
+E055,Security Services HQ,Main Gate,0.45,6
+E056,Shuttle Terminal,University Square,0.35,5
+E057,Shuttle Terminal,Great Hall,0.4,5
+E058,Great Hall,University of Ghana Business School,0.5,6
+E059,University of Ghana Business School,School of Law,0.45,6
+E060,Balme Library,University of Ghana Business School,0.4,5
+E061,Balme Library,Department of Mathematics,0.38,5
+E062,Computer Science Department,Department of Physics,0.25,3
+E063,Computer Science Department,ICT Directorate,0.15,2
+E064,School of Engineering Sciences,Department of Chemistry,0.25,3
+E065,Department of Chemistry,School of Biological Sciences,0.4,5
+E066,School of Biological Sciences,School of Public Health,0.45,6
+E067,Medical School,WACCBIP,0.28,4
+E068,Dental School,Commonwealth Hall,0.55,7
+E069,Volta Hall,Jean Nelson Aka Hall,0.3,4
+E070,Jean Nelson Aka Hall,Diaspora Halls,0.18,2
+E071,Diaspora Halls,Jubilee Hall,0.22,3
+E072,Jubilee Hall,Night Market,0.45,6
+E073,Night Market,Bush Canteen,0.35,5
+E074,Athletic Oval,Central Cafeteria,0.25,3
+E075,Central Cafeteria,Banking Square,0.3,4
+E076,Great Hall,School of Communication Studies,0.55,7
+E077,Registry,Balme Library,0.25,3
+E078,Registry,University of Ghana Business School,0.45,6
+E079,University Square,Great Hall,0.2,3
+E080,Computer Science Department,School of Law,0.4,5
+E081,School of Engineering Sciences,Department of Mathematics,0.2,3
+E082,Department of Earth Science,School of Biological Sciences,0.3,4
+E083,Institute for Environment & Sanitation Studies,Department of Plant & Environmental Biology,0.35,5
+E084,School of Communication Studies,University Guest Centre,0.45,6
+E085,School of Performing Arts,Night Market,0.35,5
+E086,Central Cafeteria,University Guest Centre,0.2,3
+E087,Bush Canteen,Athletic Oval,0.3,4
+E088,Athletic Oval,Akuafo Hall,0.28,4
+E089,Mensah Sarbah Hall,Volta Hall,0.45,6
+E090,Commonwealth Hall,Jean Nelson Aka Hall,0.4,5
+E091,Jean Nelson Aka Hall,UG Hospital,0.55,7
+E092,UG Hospital,Security Services HQ,0.4,5
+E093,School of Public Health,Maintenance Workshop,0.35,5
+E094,Medical School,Sports Directorate,0.6,8
+E095,Sports Directorate,Shuttle Terminal,0.4,5
+E096,Shuttle Terminal,Visitor Car Park,0.2,3
+E097,Visitor Car Park,Banking Square,0.25,3
+E098,Banking Square,Main Gate,0.35,5
+E099,Staff Village Junction,Shuttle Terminal,0.3,4
+E100,Fire Station,Main Gate,0.25,3
