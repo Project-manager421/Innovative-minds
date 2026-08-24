@@ -1,0 +1,301 @@
+request_id,category,description,location_id,location_name,urgency,status,submission_time
+SR001,Plumbing,Blocked toilet,L026,Medical School,Medium,Pending,2026-03-15 10:53
+SR002,Security,Suspicious activity,L033,Volta Hall,High,Pending,2026-02-28 09:45
+SR003,IT Support,Smart board failure,L028,Legon Hall,High,In Progress,2026-02-03 09:06
+SR004,Security,Emergency assistance,L004,Registry,Low,Pending,2026-04-25 11:48
+SR005,Cleaning,Classroom cleaning,L035,Diaspora Halls,High,Assigned,2026-04-20 12:36
+SR006,Security,Traffic control,L041,Athletic Oval,High,Pending,2026-04-07 10:06
+SR007,IT Support,Smart board failure,L014,Centre for Remote Sensing & GIS,Medium,In Progress,2026-04-15 17:59
+SR008,Security,Emergency assistance,L024,UG Hospital,Medium,Completed,2026-04-05 14:35
+SR009,Security,Broken gate,L034,Jean Nelson Aka Hall,Medium,Assigned,2026-03-04 17:08
+SR010,IT Support,Projector not working,L033,Volta Hall,Medium,Completed,2026-01-25 22:56
+SR011,IT Support,Projector not working,L049,University Guest Centre,Medium,Completed,2026-04-20 17:51
+SR012,Transport,Road blockage,L039,Banking Square,Medium,Completed,2026-01-14 09:47
+SR013,Cleaning,Overflowing dustbin,L004,Registry,Low,Assigned,2026-03-20 21:48
+SR014,Transport,Accident on campus,L043,Shuttle Terminal,Medium,Completed,2026-02-20 13:09
+SR015,IT Support,Printer malfunction,L004,Registry,High,Pending,2026-04-10 14:55
+SR016,Cleaning,Drainage cleaning,L006,Balme Library,High,Assigned,2026-02-10 12:22
+SR017,Cleaning,Hostel sanitation,L046,Fire Station,Medium,Assigned,2026-04-29 19:44
+SR018,Electrical,Power outage,L012,Department of Chemistry,High,In Progress,2026-01-07 23:23
+SR019,Security,Lost student ID,L017,School of Performing Arts,Medium,Pending,2026-03-15 19:09
+SR020,Security,Broken gate,L009,ICT Directorate,Medium,In Progress,2026-03-26 08:59
+SR021,Facility Maintenance,Ceiling repair,L026,Medical School,Medium,Assigned,2026-03-08 19:33
+SR022,Electrical,Power outage,L014,Centre for Remote Sensing & GIS,Medium,Pending,2026-03-23 08:36
+SR023,IT Support,Smart board failure,L010,Department of Mathematics,Medium,Completed,2026-03-25 07:34
+SR024,Facility Maintenance,Damaged windows,L040,Central Cafeteria,Medium,In Progress,2026-02-19 19:00
+SR025,IT Support,Projector not working,L032,Commonwealth Hall,Low,Assigned,2026-03-08 16:35
+SR026,Electrical,Power outage,L048,Staff Village Junction,Medium,Pending,2026-04-22 13:03
+SR027,IT Support,Wi-Fi failure,L034,Jean Nelson Aka Hall,Medium,In Progress,2026-05-03 08:18
+SR028,Security,Broken gate,L042,Sports Directorate,Low,In Progress,2026-02-08 19:28
+SR029,Electrical,Broken electrical socket,L050,Cedi Conference Centre,High,In Progress,2026-03-11 18:10
+SR030,Electrical,Air conditioner failure,L049,University Guest Centre,Low,Completed,2026-04-20 20:17
+SR031,Facility Maintenance,Damaged windows,L013,Department of Earth Science,Medium,Assigned,2026-01-09 08:20
+SR032,Plumbing,Low water pressure,L017,School of Performing Arts,High,In Progress,2026-02-19 22:21
+SR033,Transport,Road blockage,L024,UG Hospital,High,Pending,2026-03-07 13:51
+SR034,Electrical,Generator maintenance,L040,Central Cafeteria,Low,In Progress,2026-01-06 23:28
+SR035,Transport,Road blockage,L042,Sports Directorate,High,In Progress,2026-05-02 20:20
+SR036,Transport,Request for shuttle service,L031,Mensah Sarbah Hall,Low,Assigned,2026-03-28 17:35
+SR037,Facility Maintenance,Roof leakage,L030,Akuafo Hall,Medium,Completed,2026-04-08 12:40
+SR038,Electrical,Power outage,L010,Department of Mathematics,Medium,Assigned,2026-03-30 12:09
+SR039,Facility Maintenance,Ceiling repair,L031,Mensah Sarbah Hall,Medium,Assigned,2026-03-17 11:31
+SR040,IT Support,Projector not working,L034,Jean Nelson Aka Hall,Low,Pending,2026-04-27 14:22
+SR041,Facility Maintenance,Damaged windows,L002,Legon Main Entrance,Medium,Pending,2026-02-05 17:46
+SR042,Security,Emergency assistance,L009,ICT Directorate,High,Completed,2026-04-30 22:12
+SR043,Security,Traffic control,L027,Dental School,Low,Completed,2026-01-22 12:03
+SR044,Security,Suspicious activity,L029,Legon Hall Annex A,Low,In Progress,2026-04-15 11:41
+SR045,Electrical,Generator maintenance,L040,Central Cafeteria,Low,In Progress,2026-02-16 23:20
+SR046,Facility Maintenance,Broken classroom chairs,L036,Jubilee Hall,High,Pending,2026-01-11 11:02
+SR047,Cleaning,Overflowing dustbin,L049,University Guest Centre,Low,Pending,2026-02-16 14:14
+SR048,Plumbing,Low water pressure,L033,Volta Hall,Medium,Assigned,2026-02-06 16:29
+SR049,Security,Lost student ID,L029,Legon Hall Annex A,High,Pending,2026-03-03 17:34
+SR050,Transport,Request for shuttle service,L028,Legon Hall,High,In Progress,2026-04-16 11:27
+SR051,Facility Maintenance,Damaged windows,L046,Fire Station,Medium,Assigned,2026-02-07 11:59
+SR052,Electrical,Power outage,L026,Medical School,Low,Pending,2026-04-01 14:40
+SR053,Transport,Accident on campus,L033,Volta Hall,Medium,Assigned,2026-02-20 17:35
+SR054,Transport,Road blockage,L002,Legon Main Entrance,Medium,Assigned,2026-04-06 07:54
+SR055,Plumbing,Broken pipe,L033,Volta Hall,Low,Pending,2026-05-03 15:26
+SR056,IT Support,Projector not working,L017,School of Performing Arts,Medium,Completed,2026-01-29 16:18
+SR057,Electrical,Generator maintenance,L044,Maintenance Workshop,Low,Pending,2026-01-25 23:14
+SR058,Plumbing,Water leakage,L018,University of Ghana Business School,High,In Progress,2026-03-01 09:47
+SR059,IT Support,Projector not working,L017,School of Performing Arts,High,Completed,2026-01-14 16:25
+SR060,IT Support,Printer malfunction,L001,Main Gate,Medium,In Progress,2026-05-04 16:09
+SR061,Electrical,Power outage,L034,Jean Nelson Aka Hall,Low,Completed,2026-01-26 15:33
+SR062,Electrical,Faulty light bulb,L020,Graduate School,Medium,In Progress,2026-02-01 16:58
+SR063,Security,Lost student ID,L018,University of Ghana Business School,Medium,Pending,2026-02-07 08:30
+SR064,IT Support,Smart board failure,L036,Jubilee Hall,Low,In Progress,2026-02-06 21:36
+SR065,Transport,Accident on campus,L043,Shuttle Terminal,Medium,Completed,2026-02-25 17:14
+SR066,Electrical,Faulty light bulb,L022,School of Biological Sciences,High,Completed,2026-04-09 11:55
+SR067,Plumbing,Water leakage,L009,ICT Directorate,High,In Progress,2026-04-28 15:57
+SR068,Electrical,Power outage,L006,Balme Library,Medium,Assigned,2026-03-11 17:08
+SR069,Electrical,Broken electrical socket,L003,University Square,Medium,Pending,2026-03-04 07:46
+SR070,Plumbing,Broken pipe,L036,Jubilee Hall,Medium,Pending,2026-04-28 16:43
+SR071,Plumbing,Blocked toilet,L001,Main Gate,Medium,Pending,2026-02-10 13:45
+SR072,Security,Suspicious activity,L006,Balme Library,Medium,Pending,2026-02-26 08:55
+SR073,IT Support,Computer lab offline,L020,Graduate School,Medium,Pending,2026-03-14 12:12
+SR074,Transport,Accident on campus,L049,University Guest Centre,Medium,Cancelled,2026-01-25 17:16
+SR075,Security,Lost student ID,L003,University Square,Low,Completed,2026-03-12 21:16
+SR076,Transport,Request for shuttle service,L034,Jean Nelson Aka Hall,Low,In Progress,2026-04-20 08:22
+SR077,Transport,Request for shuttle service,L006,Balme Library,High,Pending,2026-02-21 10:54
+SR078,Facility Maintenance,Roof leakage,L036,Jubilee Hall,High,Pending,2026-03-15 15:01
+SR079,Plumbing,Water leakage,L030,Akuafo Hall,Low,Completed,2026-03-11 10:12
+SR080,Security,Suspicious activity,L048,Staff Village Junction,Low,Pending,2026-01-15 15:45
+SR081,Transport,Request for shuttle service,L015,Institute for Environment & Sanitation Studies,Low,Cancelled,2026-03-10 19:34
+SR082,Cleaning,Hostel sanitation,L050,Cedi Conference Centre,High,In Progress,2026-01-31 10:08
+SR083,Electrical,Broken electrical socket,L017,School of Performing Arts,Medium,In Progress,2026-03-26 11:30
+SR084,Cleaning,Overflowing dustbin,L032,Commonwealth Hall,Medium,In Progress,2026-04-04 14:13
+SR085,Cleaning,Hostel sanitation,L046,Fire Station,Medium,Assigned,2026-03-06 11:27
+SR086,Security,Lost student ID,L020,Graduate School,Low,Completed,2026-01-08 16:59
+SR087,IT Support,Smart board failure,L029,Legon Hall Annex A,Low,Assigned,2026-05-03 13:34
+SR088,Security,Suspicious activity,L010,Department of Mathematics,Low,Pending,2026-02-21 12:08
+SR089,Facility Maintenance,Ceiling repair,L018,University of Ghana Business School,Low,Completed,2026-02-04 23:27
+SR090,Cleaning,Drainage cleaning,L002,Legon Main Entrance,High,Completed,2026-04-03 21:55
+SR091,Plumbing,Blocked toilet,L027,Dental School,Medium,Assigned,2026-04-23 17:30
+SR092,Plumbing,Broken pipe,L026,Medical School,High,Completed,2026-04-07 08:27
+SR093,Transport,Road blockage,L017,School of Performing Arts,Medium,Assigned,2026-04-27 09:53
+SR094,Cleaning,Hostel sanitation,L004,Registry,Medium,Pending,2026-03-31 17:10
+SR095,Electrical,Faulty light bulb,L018,University of Ghana Business School,Medium,Assigned,2026-04-14 19:20
+SR096,Cleaning,Overflowing dustbin,L049,University Guest Centre,Medium,Completed,2026-03-17 14:16
+SR097,IT Support,Projector not working,L047,Visitor Car Park,Medium,In Progress,2026-01-23 17:01
+SR098,IT Support,Smart board failure,L009,ICT Directorate,High,Assigned,2026-02-11 16:46
+SR099,Transport,Road blockage,L026,Medical School,Medium,Assigned,2026-03-18 19:37
+SR100,Electrical,Faulty light bulb,L005,Great Hall,High,Completed,2026-03-10 14:58
+SR101,Plumbing,Low water pressure,L028,Legon Hall,High,Pending,2026-01-17 12:51
+SR102,Security,Suspicious activity,L021,Department of Plant & Environmental Biology,High,Pending,2026-03-19 14:26
+SR103,IT Support,Printer malfunction,L025,School of Public Health,Medium,In Progress,2026-02-23 15:51
+SR104,Facility Maintenance,Broken classroom chairs,L032,Commonwealth Hall,Medium,Cancelled,2026-01-22 13:35
+SR105,Plumbing,Blocked toilet,L025,School of Public Health,Medium,Assigned,2026-02-14 07:38
+SR106,IT Support,Printer malfunction,L046,Fire Station,Low,Completed,2026-03-22 22:30
+SR107,IT Support,Printer malfunction,L034,Jean Nelson Aka Hall,Low,Cancelled,2026-02-06 10:44
+SR108,Electrical,Faulty light bulb,L034,Jean Nelson Aka Hall,Low,Pending,2026-04-21 21:35
+SR109,Security,Suspicious activity,L001,Main Gate,Low,Pending,2026-05-03 09:11
+SR110,Transport,Road blockage,L009,ICT Directorate,Medium,In Progress,2026-03-02 10:36
+SR111,IT Support,Computer lab offline,L034,Jean Nelson Aka Hall,Low,Pending,2026-02-08 15:20
+SR112,Security,Suspicious activity,L001,Main Gate,Medium,Cancelled,2026-02-10 18:11
+SR113,Facility Maintenance,Damaged windows,L031,Mensah Sarbah Hall,Medium,In Progress,2026-01-09 21:15
+SR114,Transport,Road blockage,L004,Registry,High,Assigned,2026-04-02 20:35
+SR115,Plumbing,Blocked toilet,L043,Shuttle Terminal,Medium,Assigned,2026-03-10 09:14
+SR116,Plumbing,Low water pressure,L024,UG Hospital,Medium,Pending,2026-04-18 17:17
+SR117,Facility Maintenance,Ceiling repair,L005,Great Hall,High,Cancelled,2026-02-14 13:44
+SR118,Cleaning,Classroom cleaning,L017,School of Performing Arts,Low,Pending,2026-03-26 23:09
+SR119,Electrical,Faulty light bulb,L032,Commonwealth Hall,Medium,In Progress,2026-03-23 12:29
+SR120,Cleaning,Overflowing dustbin,L014,Centre for Remote Sensing & GIS,High,In Progress,2026-02-28 09:15
+SR121,IT Support,Wi-Fi failure,L026,Medical School,Medium,Completed,2026-02-15 10:35
+SR122,Electrical,Broken electrical socket,L013,Department of Earth Science,High,Completed,2026-04-11 21:32
+SR123,Plumbing,Low water pressure,L024,UG Hospital,Low,Assigned,2026-01-19 07:35
+SR124,Plumbing,Water leakage,L023,WACCBIP,Medium,Completed,2026-03-18 13:54
+SR125,Plumbing,Broken pipe,L028,Legon Hall,High,Completed,2026-01-31 19:04
+SR126,Cleaning,Classroom cleaning,L021,Department of Plant & Environmental Biology,Medium,Completed,2026-01-09 20:45
+SR127,Facility Maintenance,Roof leakage,L003,University Square,Medium,Assigned,2026-04-18 08:46
+SR128,Electrical,Power outage,L039,Banking Square,Medium,Pending,2026-03-25 08:46
+SR129,Transport,Road blockage,L018,University of Ghana Business School,Medium,Completed,2026-03-23 09:31
+SR130,Facility Maintenance,Damaged windows,L007,Computer Science Department,Medium,Cancelled,2026-04-15 20:20
+SR131,Plumbing,Low water pressure,L032,Commonwealth Hall,High,Assigned,2026-01-07 17:22
+SR132,Transport,Request for shuttle service,L039,Banking Square,High,Completed,2026-03-05 19:20
+SR133,Facility Maintenance,Ceiling repair,L006,Balme Library,Medium,Assigned,2026-01-26 14:56
+SR134,IT Support,Projector not working,L031,Mensah Sarbah Hall,Medium,Assigned,2026-03-01 10:34
+SR135,Plumbing,Water leakage,L014,Centre for Remote Sensing & GIS,High,Assigned,2026-04-06 21:41
+SR136,Electrical,Faulty light bulb,L027,Dental School,Medium,Completed,2026-02-05 11:19
+SR137,Facility Maintenance,Door repair,L019,School of Law,Medium,Pending,2026-02-07 15:42
+SR138,Cleaning,Classroom cleaning,L012,Department of Chemistry,High,Pending,2026-04-29 13:50
+SR139,IT Support,Printer malfunction,L017,School of Performing Arts,Low,In Progress,2026-02-04 11:11
+SR140,Cleaning,Overflowing dustbin,L007,Computer Science Department,High,Completed,2026-02-04 22:28
+SR141,Plumbing,Water leakage,L019,School of Law,High,Pending,2026-03-23 14:29
+SR142,IT Support,Computer lab offline,L033,Volta Hall,Low,Assigned,2026-02-08 07:36
+SR143,Transport,Road blockage,L014,Centre for Remote Sensing & GIS,High,Assigned,2026-01-11 13:46
+SR144,IT Support,Smart board failure,L047,Visitor Car Park,Medium,Pending,2026-01-07 17:56
+SR145,Transport,Road blockage,L012,Department of Chemistry,Medium,Pending,2026-01-10 23:05
+SR146,Cleaning,Overflowing dustbin,L027,Dental School,High,Assigned,2026-03-17 12:10
+SR147,Security,Suspicious activity,L042,Sports Directorate,High,In Progress,2026-02-27 17:12
+SR148,Plumbing,Low water pressure,L004,Registry,Medium,In Progress,2026-02-20 20:56
+SR149,IT Support,Computer lab offline,L042,Sports Directorate,High,Completed,2026-02-01 07:57
+SR150,Electrical,Generator maintenance,L008,School of Engineering Sciences,Low,Assigned,2026-04-29 18:59
+SR151,Facility Maintenance,Damaged windows,L009,ICT Directorate,High,In Progress,2026-03-29 19:35
+SR152,Security,Traffic control,L024,UG Hospital,Low,Pending,2026-02-19 16:40
+SR153,Security,Lost student ID,L005,Great Hall,High,Assigned,2026-04-19 13:49
+SR154,Electrical,Power outage,L031,Mensah Sarbah Hall,Medium,In Progress,2026-03-28 19:35
+SR155,Transport,Request for shuttle service,L041,Athletic Oval,Low,Pending,2026-02-26 14:23
+SR156,Cleaning,Classroom cleaning,L037,Bush Canteen,High,Assigned,2026-03-13 12:54
+SR157,Plumbing,Water leakage,L010,Department of Mathematics,High,Completed,2026-04-30 13:32
+SR158,Security,Suspicious activity,L043,Shuttle Terminal,Low,Pending,2026-03-23 22:05
+SR159,Facility Maintenance,Door repair,L042,Sports Directorate,Medium,In Progress,2026-03-01 20:12
+SR160,Plumbing,Low water pressure,L033,Volta Hall,Medium,Pending,2026-03-26 22:59
+SR161,Electrical,Generator maintenance,L049,University Guest Centre,Medium,Completed,2026-04-23 13:21
+SR162,Cleaning,Drainage cleaning,L007,Computer Science Department,High,Assigned,2026-02-21 10:21
+SR163,Cleaning,Overflowing dustbin,L003,University Square,Medium,Pending,2026-04-09 18:19
+SR164,Transport,Shuttle breakdown,L004,Registry,Low,Completed,2026-03-30 11:31
+SR165,Facility Maintenance,Broken classroom chairs,L040,Central Cafeteria,Low,Completed,2026-01-30 12:26
+SR166,Cleaning,Hostel sanitation,L011,Department of Physics,Medium,Completed,2026-02-03 10:23
+SR167,Plumbing,Broken pipe,L011,Department of Physics,Medium,In Progress,2026-05-01 21:39
+SR168,Plumbing,Low water pressure,L014,Centre for Remote Sensing & GIS,Medium,In Progress,2026-02-05 17:53
+SR169,IT Support,Wi-Fi failure,L012,Department of Chemistry,Medium,In Progress,2026-02-10 18:27
+SR170,Cleaning,Classroom cleaning,L017,School of Performing Arts,High,In Progress,2026-03-28 19:25
+SR171,Cleaning,Overflowing dustbin,L017,School of Performing Arts,Low,In Progress,2026-02-25 18:46
+SR172,Cleaning,Hostel sanitation,L037,Bush Canteen,High,Assigned,2026-01-16 21:44
+SR173,Electrical,Air conditioner failure,L048,Staff Village Junction,Low,Pending,2026-03-13 15:49
+SR174,Transport,Road blockage,L047,Visitor Car Park,High,Pending,2026-01-25 17:09
+SR175,Transport,Accident on campus,L027,Dental School,Medium,Completed,2026-01-22 22:44
+SR176,Security,Suspicious activity,L002,Legon Main Entrance,High,In Progress,2026-02-13 11:03
+SR177,Plumbing,Blocked toilet,L027,Dental School,Medium,In Progress,2026-02-01 19:09
+SR178,Facility Maintenance,Roof leakage,L011,Department of Physics,High,Completed,2026-02-06 11:58
+SR179,IT Support,Projector not working,L041,Athletic Oval,High,In Progress,2026-02-09 20:21
+SR180,Plumbing,Water leakage,L004,Registry,Medium,In Progress,2026-02-19 22:08
+SR181,Security,Emergency assistance,L016,School of Communication Studies,High,Pending,2026-01-13 07:55
+SR182,Electrical,Faulty light bulb,L011,Department of Physics,High,Completed,2026-01-07 13:39
+SR183,Cleaning,Classroom cleaning,L034,Jean Nelson Aka Hall,Medium,In Progress,2026-03-29 21:22
+SR184,Security,Lost student ID,L033,Volta Hall,Medium,Assigned,2026-01-12 23:15
+SR185,Security,Suspicious activity,L025,School of Public Health,Low,Completed,2026-03-06 10:17
+SR186,Transport,Accident on campus,L012,Department of Chemistry,High,Pending,2026-02-04 08:37
+SR187,Plumbing,Broken pipe,L046,Fire Station,High,In Progress,2026-04-02 21:13
+SR188,Facility Maintenance,Ceiling repair,L017,School of Performing Arts,Medium,Completed,2026-04-30 13:35
+SR189,Security,Suspicious activity,L011,Department of Physics,Medium,Pending,2026-04-11 13:40
+SR190,Transport,Road blockage,L013,Department of Earth Science,Low,Assigned,2026-02-05 20:28
+SR191,Facility Maintenance,Ceiling repair,L031,Mensah Sarbah Hall,Medium,In Progress,2026-01-06 07:57
+SR192,Transport,Request for shuttle service,L037,Bush Canteen,Low,Completed,2026-02-25 10:06
+SR193,Electrical,Faulty light bulb,L003,University Square,High,Pending,2026-05-04 12:52
+SR194,Electrical,Power outage,L002,Legon Main Entrance,High,In Progress,2026-03-28 09:14
+SR195,IT Support,Projector not working,L005,Great Hall,Low,Completed,2026-01-31 10:26
+SR196,Facility Maintenance,Roof leakage,L007,Computer Science Department,High,Pending,2026-01-10 09:24
+SR197,Facility Maintenance,Broken classroom chairs,L049,University Guest Centre,Medium,Pending,2026-01-18 11:36
+SR198,Facility Maintenance,Damaged windows,L019,School of Law,Medium,Assigned,2026-01-08 18:46
+SR199,Plumbing,Water leakage,L046,Fire Station,Low,Completed,2026-04-14 23:24
+SR200,Plumbing,Water leakage,L027,Dental School,High,In Progress,2026-01-18 19:00
+SR201,Transport,Shuttle breakdown,L035,Diaspora Halls,Medium,Completed,2026-04-21 10:06
+SR202,Facility Maintenance,Door repair,L011,Department of Physics,Medium,In Progress,2026-02-11 08:30
+SR203,Plumbing,Low water pressure,L007,Computer Science Department,Medium,Completed,2026-01-29 23:07
+SR204,Plumbing,Broken pipe,L037,Bush Canteen,Low,Pending,2026-02-02 15:01
+SR205,Electrical,Power outage,L041,Athletic Oval,Low,Assigned,2026-04-05 11:10
+SR206,Plumbing,Broken pipe,L007,Computer Science Department,Medium,Assigned,2026-04-29 09:57
+SR207,Transport,Shuttle breakdown,L024,UG Hospital,High,Pending,2026-05-01 12:54
+SR208,Transport,Request for shuttle service,L030,Akuafo Hall,High,In Progress,2026-04-04 08:52
+SR209,Security,Broken gate,L034,Jean Nelson Aka Hall,High,Completed,2026-03-31 17:40
+SR210,Cleaning,Drainage cleaning,L045,Security Services HQ,Low,In Progress,2026-01-22 17:59
+SR211,Transport,Request for shuttle service,L033,Volta Hall,High,Assigned,2026-04-06 12:16
+SR212,Electrical,Faulty light bulb,L047,Visitor Car Park,Medium,In Progress,2026-01-26 14:50
+SR213,Electrical,Broken electrical socket,L047,Visitor Car Park,Low,Pending,2026-03-31 10:42
+SR214,Cleaning,Classroom cleaning,L010,Department of Mathematics,Low,Completed,2026-03-02 15:42
+SR215,IT Support,Projector not working,L018,University of Ghana Business School,High,Assigned,2026-01-10 07:55
+SR216,Facility Maintenance,Roof leakage,L045,Security Services HQ,High,Cancelled,2026-02-12 21:31
+SR217,Electrical,Broken electrical socket,L039,Banking Square,Low,Pending,2026-02-06 21:14
+SR218,Security,Traffic control,L048,Staff Village Junction,Medium,Completed,2026-04-01 15:13
+SR219,Electrical,Power outage,L030,Akuafo Hall,Medium,Pending,2026-04-05 11:27
+SR220,Cleaning,Classroom cleaning,L026,Medical School,Low,In Progress,2026-02-07 21:00
+SR221,Cleaning,Overflowing dustbin,L040,Central Cafeteria,Low,In Progress,2026-03-31 13:27
+SR222,Transport,Road blockage,L050,Cedi Conference Centre,High,Completed,2026-05-02 10:32
+SR223,Plumbing,Blocked toilet,L011,Department of Physics,Low,Cancelled,2026-01-31 18:36
+SR224,Facility Maintenance,Ceiling repair,L030,Akuafo Hall,Medium,Completed,2026-03-12 08:10
+SR225,Facility Maintenance,Door repair,L034,Jean Nelson Aka Hall,Medium,Completed,2026-03-05 14:13
+SR226,Electrical,Generator maintenance,L033,Volta Hall,Low,Pending,2026-03-25 19:10
+SR227,IT Support,Computer lab offline,L018,University of Ghana Business School,Medium,Pending,2026-01-15 21:28
+SR228,Cleaning,Hostel sanitation,L038,Night Market,Medium,Pending,2026-04-10 20:03
+SR229,Electrical,Generator maintenance,L030,Akuafo Hall,High,Pending,2026-04-15 10:21
+SR230,Facility Maintenance,Damaged windows,L031,Mensah Sarbah Hall,Medium,Completed,2026-04-20 11:52
+SR231,Transport,Accident on campus,L030,Akuafo Hall,Low,Completed,2026-03-30 12:19
+SR232,Facility Maintenance,Roof leakage,L023,WACCBIP,Low,Pending,2026-04-06 20:13
+SR233,Plumbing,Low water pressure,L044,Maintenance Workshop,High,Pending,2026-04-08 15:52
+SR234,Electrical,Broken electrical socket,L021,Department of Plant & Environmental Biology,Medium,Assigned,2026-03-28 10:12
+SR235,Plumbing,Blocked toilet,L020,Graduate School,Low,Pending,2026-04-21 18:20
+SR236,Electrical,Air conditioner failure,L023,WACCBIP,Medium,Pending,2026-01-07 13:34
+SR237,Transport,Road blockage,L017,School of Performing Arts,Medium,In Progress,2026-04-25 14:41
+SR238,Facility Maintenance,Roof leakage,L023,WACCBIP,Low,Pending,2026-02-26 13:09
+SR239,Transport,Shuttle breakdown,L043,Shuttle Terminal,Low,In Progress,2026-03-28 16:42
+SR240,Cleaning,Classroom cleaning,L034,Jean Nelson Aka Hall,High,Completed,2026-04-01 11:05
+SR241,IT Support,Computer lab offline,L027,Dental School,High,Pending,2026-03-10 09:00
+SR242,Cleaning,Classroom cleaning,L045,Security Services HQ,Medium,Assigned,2026-03-16 07:40
+SR243,Facility Maintenance,Door repair,L030,Akuafo Hall,Medium,Assigned,2026-02-12 21:53
+SR244,Cleaning,Drainage cleaning,L044,Maintenance Workshop,High,In Progress,2026-03-28 07:31
+SR245,Security,Suspicious activity,L044,Maintenance Workshop,Low,Cancelled,2026-04-19 11:02
+SR246,Cleaning,Drainage cleaning,L049,University Guest Centre,Low,Pending,2026-04-07 21:10
+SR247,Electrical,Broken electrical socket,L007,Computer Science Department,Low,Assigned,2026-03-07 13:48
+SR248,Cleaning,Hostel sanitation,L028,Legon Hall,Medium,Pending,2026-02-12 16:52
+SR249,Facility Maintenance,Roof leakage,L026,Medical School,Medium,Cancelled,2026-04-27 18:43
+SR250,Transport,Accident on campus,L008,School of Engineering Sciences,Medium,Assigned,2026-02-13 12:07
+SR251,Transport,Shuttle breakdown,L003,University Square,Medium,In Progress,2026-02-26 08:55
+SR252,Plumbing,Water leakage,L001,Main Gate,High,Completed,2026-03-07 09:20
+SR253,Security,Traffic control,L040,Central Cafeteria,Medium,Pending,2026-04-02 09:43
+SR254,IT Support,Printer malfunction,L041,Athletic Oval,Low,Pending,2026-01-29 08:56
+SR255,Facility Maintenance,Broken classroom chairs,L042,Sports Directorate,High,Completed,2026-01-23 17:05
+SR256,Transport,Road blockage,L020,Graduate School,High,Pending,2026-01-08 21:06
+SR257,Transport,Shuttle breakdown,L032,Commonwealth Hall,Medium,Pending,2026-01-21 21:06
+SR258,Transport,Accident on campus,L029,Legon Hall Annex A,High,In Progress,2026-03-23 12:00
+SR259,Facility Maintenance,Roof leakage,L036,Jubilee Hall,High,In Progress,2026-02-02 12:10
+SR260,IT Support,Printer malfunction,L001,Main Gate,High,In Progress,2026-04-25 09:43
+SR261,Facility Maintenance,Broken classroom chairs,L009,ICT Directorate,Medium,Pending,2026-03-19 14:58
+SR262,Transport,Request for shuttle service,L004,Registry,Medium,Completed,2026-04-04 12:16
+SR263,Facility Maintenance,Broken classroom chairs,L019,School of Law,Medium,Completed,2026-03-05 16:28
+SR264,IT Support,Projector not working,L001,Main Gate,High,Completed,2026-04-03 09:54
+SR265,Plumbing,Broken pipe,L047,Visitor Car Park,Medium,Cancelled,2026-04-22 23:08
+SR266,IT Support,Computer lab offline,L024,UG Hospital,Low,Completed,2026-03-07 12:39
+SR267,Facility Maintenance,Broken classroom chairs,L024,UG Hospital,Low,Pending,2026-04-18 21:00
+SR268,Cleaning,Drainage cleaning,L018,University of Ghana Business School,Low,In Progress,2026-02-12 15:33
+SR269,Security,Traffic control,L022,School of Biological Sciences,Low,Completed,2026-01-07 12:08
+SR270,Facility Maintenance,Door repair,L038,Night Market,Medium,Completed,2026-02-23 20:13
+SR271,Cleaning,Classroom cleaning,L029,Legon Hall Annex A,Medium,Pending,2026-02-08 15:57
+SR272,Electrical,Air conditioner failure,L049,University Guest Centre,Low,Pending,2026-04-22 12:21
+SR273,Facility Maintenance,Ceiling repair,L010,Department of Mathematics,Medium,Completed,2026-04-19 22:52
+SR274,Security,Suspicious activity,L035,Diaspora Halls,Medium,Completed,2026-01-31 14:49
+SR275,Security,Suspicious activity,L044,Maintenance Workshop,Medium,Completed,2026-05-04 16:07
+SR276,Facility Maintenance,Broken classroom chairs,L025,School of Public Health,Medium,Pending,2026-04-19 19:19
+SR277,IT Support,Wi-Fi failure,L026,Medical School,Medium,Completed,2026-04-29 18:00
+SR278,Security,Traffic control,L013,Department of Earth Science,High,Pending,2026-01-29 16:53
+SR279,Security,Traffic control,L023,WACCBIP,Medium,In Progress,2026-01-25 14:32
+SR280,Cleaning,Hostel sanitation,L007,Computer Science Department,Medium,Assigned,2026-01-16 11:50
+SR281,Security,Suspicious activity,L023,WACCBIP,Medium,In Progress,2026-01-18 08:43
+SR282,Facility Maintenance,Ceiling repair,L032,Commonwealth Hall,Medium,Pending,2026-05-04 15:57
+SR283,IT Support,Printer malfunction,L050,Cedi Conference Centre,Medium,In Progress,2026-01-22 16:23
+SR284,IT Support,Computer lab offline,L013,Department of Earth Science,Low,Assigned,2026-01-09 08:32
+SR285,Security,Broken gate,L046,Fire Station,Medium,Completed,2026-05-02 10:25
+SR286,Security,Emergency assistance,L008,School of Engineering Sciences,Low,Pending,2026-02-15 15:11
+SR287,IT Support,Smart board failure,L026,Medical School,High,Completed,2026-02-22 15:16
+SR288,Electrical,Faulty light bulb,L003,University Square,Low,Completed,2026-01-13 08:23
+SR289,IT Support,Computer lab offline,L033,Volta Hall,Low,In Progress,2026-03-08 08:36
+SR290,Electrical,Broken electrical socket,L049,University Guest Centre,High,Pending,2026-04-11 17:07
+SR291,Security,Emergency assistance,L049,University Guest Centre,Medium,Assigned,2026-02-22 15:54
+SR292,IT Support,Computer lab offline,L031,Mensah Sarbah Hall,Medium,Assigned,2026-04-19 12:28
+SR293,Transport,Shuttle breakdown,L030,Akuafo Hall,Low,Pending,2026-01-10 13:29
+SR294,Facility Maintenance,Damaged windows,L005,Great Hall,Low,Completed,2026-04-29 12:19
+SR295,Cleaning,Overflowing dustbin,L025,School of Public Health,Low,In Progress,2026-03-04 17:50
+SR296,Facility Maintenance,Damaged windows,L031,Mensah Sarbah Hall,High,Assigned,2026-02-17 15:17
+SR297,IT Support,Wi-Fi failure,L046,Fire Station,Medium,Completed,2026-03-03 11:47
+SR298,Cleaning,Drainage cleaning,L016,School of Communication Studies,High,Pending,2026-04-23 16:51
+SR299,Facility Maintenance,Damaged windows,L017,School of Performing Arts,Medium,Assigned,2026-05-01 22:37
+SR300,Electrical,Air conditioner failure,L004,Registry,Medium,Completed,2026-05-04 14:05

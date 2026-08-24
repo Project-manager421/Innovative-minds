@@ -1,0 +1,59 @@
+resource_id,name,type,category,location_id,location_name,available
+RES001,IT Technician Kwabena,IT Technician,IT Support,L019,School of Law,TRUE
+RES002,IT Technician Yaa,IT Technician,IT Support,L013,Department of Earth Science,FALSE
+RES003,IT Technician Kwame,IT Technician,IT Support,L017,School of Performing Arts,FALSE
+RES004,Network Engineer Ama,Network Engineer,IT Support,L025,School of Public Health,TRUE
+RES005,Network Engineer Akua,Network Engineer,IT Support,L011,Department of Physics,TRUE
+RES006,Computer Lab Assistant Kofi,Computer Lab Assistant,IT Support,L041,Athletic Oval,TRUE
+RES007,Computer Lab Assistant Yaa,Computer Lab Assistant,IT Support,L033,Volta Hall,TRUE
+RES008,Computer Lab Assistant Kofi,Computer Lab Assistant,IT Support,L029,Legon Hall Annex A,TRUE
+RES009,Systems Administrator Kofi,Systems Administrator,IT Support,L024,UG Hospital,TRUE
+RES010,Systems Administrator Akua,Systems Administrator,IT Support,L027,Dental School,TRUE
+RES011,Systems Administrator Adjoa,Systems Administrator,IT Support,L012,Department of Chemistry,TRUE
+RES012,Electrician Kwesi,Electrician,Maintenance,L050,Cedi Conference Centre,TRUE
+RES013,Electrician Kofi,Electrician,Maintenance,L013,Department of Earth Science,TRUE
+RES014,Carpenter Akua,Carpenter,Maintenance,L039,Banking Square,FALSE
+RES015,Carpenter Yaa,Carpenter,Maintenance,L018,University of Ghana Business School,TRUE
+RES016,Plumber Adjoa,Plumber,Maintenance,L043,Shuttle Terminal,FALSE
+RES017,Plumber Yaa,Plumber,Maintenance,L013,Department of Earth Science,TRUE
+RES018,Air Conditioner Technician John,Air Conditioner Technician,Maintenance,L005,Great Hall,TRUE
+RES019,Air Conditioner Technician Kwesi,Air Conditioner Technician,Maintenance,L027,Dental School,FALSE
+RES020,Cleaning Team A,Cleaning Team A,Cleaning,L034,Jean Nelson Aka Hall,FALSE
+RES021,Cleaning Team A,Cleaning Team A,Cleaning,L022,School of Biological Sciences,TRUE
+RES022,Cleaning Team B,Cleaning Team B,Cleaning,L006,Balme Library,TRUE
+RES023,Cleaning Team B,Cleaning Team B,Cleaning,L049,University Guest Centre,TRUE
+RES024,Cleaning Team B,Cleaning Team B,Cleaning,L043,Shuttle Terminal,TRUE
+RES025,Waste Collection Truck,Waste Collection Truck,Cleaning,L037,Bush Canteen,FALSE
+RES026,Waste Collection Truck,Waste Collection Truck,Cleaning,L024,UG Hospital,TRUE
+RES027,Sanitation Supervisor Adjoa,Sanitation Supervisor,Cleaning,L039,Banking Square,FALSE
+RES028,Sanitation Supervisor Akosua,Sanitation Supervisor,Cleaning,L034,Jean Nelson Aka Hall,FALSE
+RES029,Sanitation Supervisor Kwesi,Sanitation Supervisor,Cleaning,L005,Great Hall,TRUE
+RES030,Campus Security Officer Kwabena,Campus Security Officer,Security,L021,Department of Plant & Environmental Biology,FALSE
+RES031,Campus Security Officer Kwabena,Campus Security Officer,Security,L025,School of Public Health,TRUE
+RES032,Patrol Vehicle,Patrol Vehicle,Security,L019,School of Law,FALSE
+RES033,Patrol Vehicle,Patrol Vehicle,Security,L047,Visitor Car Park,TRUE
+RES034,Emergency Response Team,Emergency Response Team,Security,L034,Jean Nelson Aka Hall,FALSE
+RES035,Emergency Response Team,Emergency Response Team,Security,L009,ICT Directorate,TRUE
+RES036,Traffic Control Officer Efua,Traffic Control Officer,Security,L040,Central Cafeteria,TRUE
+RES037,Traffic Control Officer Ama,Traffic Control Officer,Security,L020,Graduate School,TRUE
+RES038,Shuttle Bus,Shuttle Bus,Transport,L002,Legon Main Entrance,TRUE
+RES039,Shuttle Bus,Shuttle Bus,Transport,L045,Security Services HQ,FALSE
+RES040,Maintenance Van,Maintenance Van,Transport,L002,Legon Main Entrance,FALSE
+RES041,Maintenance Van,Maintenance Van,Transport,L041,Athletic Oval,TRUE
+RES042,Maintenance Van,Maintenance Van,Transport,L034,Jean Nelson Aka Hall,TRUE
+RES043,Utility Pickup Truck,Utility Pickup Truck,Transport,L007,Computer Science Department,TRUE
+RES044,Utility Pickup Truck,Utility Pickup Truck,Transport,L007,Computer Science Department,FALSE
+RES045,Utility Pickup Truck,Utility Pickup Truck,Transport,L003,University Square,TRUE
+RES046,Campus Bicycle Patrol,Campus Bicycle Patrol,Transport,L032,Commonwealth Hall,TRUE
+RES047,Campus Bicycle Patrol,Campus Bicycle Patrol,Transport,L049,University Guest Centre,TRUE
+RES048,Campus Bicycle Patrol,Campus Bicycle Patrol,Transport,L008,School of Engineering Sciences,TRUE
+RES049,Ambulance Kwesi,Ambulance,Medical,L038,Night Market,TRUE
+RES050,Ambulance Efua,Ambulance,Medical,L010,Department of Mathematics,TRUE
+RES051,Campus Nurse Esi,Campus Nurse,Medical,L026,Medical School,TRUE
+RES052,Campus Nurse Kwabena,Campus Nurse,Medical,L002,Legon Main Entrance,FALSE
+RES053,Campus Nurse Kwame,Campus Nurse,Medical,L045,Security Services HQ,TRUE
+RES054,Medical Doctor Kwame,Medical Doctor,Medical,L004,Registry,FALSE
+RES055,Medical Doctor Akosua,Medical Doctor,Medical,L026,Medical School,TRUE
+RES056,Emergency Medical Team,Emergency Medical Team,Medical,L046,Fire Station,TRUE
+RES057,Emergency Medical Team,Emergency Medical Team,Medical,L037,Bush Canteen,FALSE
+RES058,Emergency Medical Team,Emergency Medical Team,Medical,L021,Department of Plant & Environmental Biology,FALSE
